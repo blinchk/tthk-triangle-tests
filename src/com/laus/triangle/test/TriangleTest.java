@@ -1,11 +1,11 @@
-package com.laus.triangle.tests;
+package com.laus.triangle.test;
 
 import com.laus.triangle.Triangle;
 import com.laus.triangle.TriangleType;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class TriangleTests {
+public class TriangleTest {
 
     @Test
     public void assertTriangleIsEquilateral() {
